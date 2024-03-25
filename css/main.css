@@ -51,7 +51,7 @@ header.scrolled {
 
 /* Subtitle styles */
 .subTitle {
-  color: #888888;
+  color: #000000;
   font-family: monospace;
   text-align: center;
   margin-top: 100px;
@@ -254,8 +254,8 @@ header.scrolled {
 
 /* Footer styles */
 footer {
-  background-color: dimgrey;
-  color: white;
+  background-color: #946b2d;
+  color: black;
   padding: 20px;
   text-align: center;
 }
