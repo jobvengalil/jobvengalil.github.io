@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Arial', sans-serif;
-  background-color: #f0f0f0;
+  background-color: #66b2b2;
 }
 
 /* Header styles */
@@ -12,14 +12,14 @@ header {
   top: 0;
   width: 100%;
   text-align: center;
-  background: #f0f0f0;
+  background: #66b2b2;
   padding: 10px;
   z-index: 1000;
 }
 
 /* Header styles when scrolled */
 header.scrolled {
-  background: #f0f0f0;
+  background: #66b2b2;
 }
 
 /* Title within the header */
@@ -27,7 +27,7 @@ header.scrolled {
   font-size: xxx-large;
   transition: font-size 0.5s ease, padding 0.5s ease;
   padding: 5px;
-  background: #f0f0f0;
+  background: #66b2b2;
   margin-bottom: 0;
   text-align: center;
 }
@@ -36,12 +36,12 @@ header.scrolled {
 .title h2.scrolled {
   font-size: large;
   padding: 5px;
-  background: #f0f0f0;
+  background: #66b2b2;
 }
 
 /* Container for the title */
 .title {
-  background: #f0f0f0;
+  background: #66b2b2;
   font-family: monospace;
   font-style: oblique;
   text-align: center;
