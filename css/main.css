@@ -254,8 +254,8 @@ header.scrolled {
 
 /* Footer styles */
 footer {
-  background-color: #946b2d;
-  color: black;
+  background-color: #000000;
+  color: white;
   padding: 20px;
   text-align: center;
 }
